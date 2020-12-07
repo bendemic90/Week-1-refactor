@@ -15,3 +15,6 @@ This repo was challenging at first as I was fairly new to restructuring html and
 
 ## Link to deployed application
 https://bendemic90.github.io/Week-1-refactor/ 
+
+## Screengrab of deployed application
+![screengrab](https://github.com/bendemic90/Week-1-refactor/blob/main/assets/images/bendemic90_github_io_week-1-refactor_.png)
